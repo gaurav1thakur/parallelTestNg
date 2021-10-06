@@ -1,0 +1,2 @@
+[2021-10-06T16:41:28,425][INFO ][TestNG-test=testpkg-1] This is the first test!
+[2021-10-06T16:41:28,440][WARN ][TestNG-test=testpkg-1] Something may be wrong, better take a look.
